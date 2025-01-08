@@ -20,7 +20,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/fraud-detection-system.git
+git clone https://github.com/Harsh2514wardhan/fraud-detection-system.git
 Navigate to the project directory:
 
 bash
